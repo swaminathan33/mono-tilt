@@ -52,7 +52,7 @@ export class Tilt extends Component<Props, State> {
       max: 35,
       perspective: 1000,
       easing: 'cubic-bezier(.03,.98,.52,.99)',
-      scale: 1.1,
+      scale: 0.2,
       speed: 1000,
       transition: true,
       axis: null,
